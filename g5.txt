@@ -6,4 +6,4 @@
 # Send them along to the Forum/Mailing List @ http://groups.google.com/group/webslideshow
 
 
-__file__.html5.html   html5.html.erb
+__file__.html   html5.html.erb
